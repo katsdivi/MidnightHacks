@@ -1,4 +1,6 @@
-# Environment variables
+# .gitignore file
+
+# Environment variables - NEVER commit this file!
 .env
 
 # Python virtual environment
@@ -7,6 +9,3 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
-
-# Node.js dependencies (if any)
-node_modules/
