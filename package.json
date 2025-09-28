@@ -1,0 +1,22 @@
+{
+    "name": "midnight-ai-cli",
+    "version": "1.1.0",
+    "description": "AI-powered assistant for Midnight smart contracts (Python Backend).",
+    "main": "index.js",
+    "bin": {
+      "midnight-ai": "./index.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "ai",
+      "cli",
+      "smart-contracts",
+      "midnight",
+      "python"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+  }
